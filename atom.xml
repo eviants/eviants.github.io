@@ -6,7 +6,7 @@
   <link href="http://eviants.github.io/atom.xml" rel="self"/>
   
   <link href="http://eviants.github.io/"/>
-  <updated>2022-06-16T06:18:19.052Z</updated>
+  <updated>2022-06-18T04:47:40.700Z</updated>
   <id>http://eviants.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://eviants.github.io/2022/06/16/art001/"/>
     <id>http://eviants.github.io/2022/06/16/art001/</id>
     <published>2022-06-16T02:40:19.000Z</published>
-    <updated>2022-06-16T06:18:19.052Z</updated>
+    <updated>2022-06-18T04:47:40.700Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>让平的个人博客，经过一段时间的建设，已经粗具规模，可以承担一些基本的功能。本文既是对博客的测试，同时也相当于一篇序言。</p></blockquote><blockquote><p>绿蚁新醅酒，<br>红泥小火炉。<br>晚来天欲雪，<br>能饮一杯无。</p></blockquote><h2 id="起源"><a href="#起源" class="headerlink" title="起源"></a>起源</h2><p>搭建一个属于自己的博客网站的想法，在我心中已经留存良久。</p><p>大约在2019年下半年，受班上一位同学的启发，我第一次尝试搭建个人网站。那时使用的是一个名叫“凡科建站”的所见即所得式的建站网站，免费模式下提供若干简易的模板、极其微薄的网站容量和免费的域名。由于缺乏良好的设备（彼时我家只有一台近10年的笔记本电脑，反应迟钝，经常死机），免费模式又过于简陋，这次尝试并没有成功。</p><p>在2020年上半年，我还心血来潮去学了一点html语言，当时我并不懂如何找学习资源，对相关的学习路径也一无所知，看到诸如css之类的繁琐配置又感到畏难，因此仅仅学会了一点皮毛就放弃了。</p><p>在此之后，我改变了策略，转向不亲自搭建底层，而是采用或改造已有的网站。比如新浪微博，比如WPS的网页文章，比如QQ空间，但是都不尽如人意。我的需求与这些网站的功能设计并不完全匹配，所以使用起来颇感不便。</p><p>我想，我最好还是能够建设一个独立域名、个性化配置的属于自己的博客网站。</p><h2 id="为什么要搭建博客"><a href="#为什么要搭建博客" class="headerlink" title="为什么要搭建博客"></a>为什么要搭建博客</h2><p>为什么要搭建博客？这是一个值得深思的问题。</p><p>自我娱乐？记录生活？社交分享？技术尝试？</p><p>时至今日，我还是没有把这个问题想清楚。其实博客只是一种载体，一种在信息技术发展中应运而生的高效的信息传播工具。明代的袁宏道在陶望龄家中偶然发现一本叫做“阙编”的诗集，纸张和印刷都非常低劣。在读过数首之后，他惊叹相见恨晚，这才认识了这位“无之而不奇斯无之而不奇”的徐文长先生，感受他的恃才傲物，他的郁郁不得志，以及他胸中的不可磨灭之气。（见《徐文长传》）倘若能原谅我以今释古的话，《阙编》和其他徐文长流传下来的作品，又何尝不是他个人的“博客”呢？只是徐文长的“博客”保存在本地，只有通过“陶望龄家”这个路径才能访问。倘若徐文长生在当代，假如他懂得一点互联网技术，那么我们或许就可以通过在地址栏上输入一行字符来欣赏他的诗作，甚至还有可能饱览他恣情山水时留下的影像记录。</p><p>当然，我并不喜欢以今释古，看似诙谐，但或许把本质和表象颠倒了。我认为，博客的本质，也许是信息的输出。从个人层面来说，或许可以用“表达”这个词来指代。表达的一种解释，是“将思维所得的成果用语言等方式反映出来的一种行为”。在过去信息传播媒介不够发达的时代，人们表达的方式比较单一，传播的范围也十分有限。但这些表达的总和构成了人类丰富绚烂的文明宝库，被一代又一代人发掘、研究、接受、转化，推动着社会变迁，塑造着人们的思想意识。信息技术的发展，为信息的产生和传播搭建了一个更好的环境，传播的媒介、形式、速度、范围等等都产生了翻天覆地的变化，比如个人博客的产生，让每一个普通人的思想能够在云端相逢。</p><p>但是，表达的本质没有变。而为什么要表达，我还没有找到答案。</p><p>——嘤其鸣矣，求其友声。表达也许是为了找到志同道合的伙伴。</p><p>——藏之名山，传之其人。表达也许是为了留下印记，等待后人去发掘。</p><p>——内有忧思感愤之郁积，其兴于怨刺。表达也许是对内心情感的发泄。</p><p>——道不同不相为谋。表达可能是具有选择性的。</p><p>——奇文共欣赏，疑义相与析。表达也许是学术上的交流促进。</p><p>——空将笺上两行书，直犯龙颜请恩泽。表达也许是为了谋求个人前程。</p><p>——晚来天欲雪，能饮一杯无。表达也许是朋友之间的温柔劝慰。</p><p>……</p><p>有人可能会说，表达不是自然而然的事情吗？人活着就要表达，这不是废话吗？</p><p>可是，也有人提倡不表达。比如老子——“圣人处无为之事，行不言之教”“知者不言，言者不知”“多言数穷，不如守中”……老子的《道德经》十分玄妙，历代解释纷纭，我这里说的只是其中一种解释。人如果没有了多余的欲望，全凭自然之道行事，还需要表达吗？一切都处在既定的轨道上，一切改变都没有必要，人们各司其职，老死不相往来，那就不需要表达了。当然这种状态是不可能出现了，但设想人类社会的原始形态，也许与之类似。试看现在的低等动物，无非只有捕食、交配、繁衍等等固定的行为，所要依赖的表达手段也远不如人类丰富。几百万年前的人类，产生了“意识”之前的人类，大概就是那样。从这种原始的“自然状态”向现今的“文明状态”演进的过程中，是什么促成了表达的蓬勃发展？</p><p>这或许涉及到价值判断之类的终极问题。这些问题，我同样也没有答案。</p><p>先暂时抛开这些思考，回到博客本身。倘若现在明确我拥有表达的需求的话，为什么要采用博客网站这种形式？这个问题就比较好回答了。我想可以用八个字来概括——个性配置，自由访问。</p><p>“自由访问”这种提法值得进一步说明，这也是我为什么弃用QQ空间的一个很重要的原因。我心目中的“自由访问”应当是有且仅有愿意访问者可以访问我的博客，有且仅有不愿意访问者不可以访问我的博客。这是一种一一对应的关系，注意愿不愿意访问的态度在同一个人身上可能会发生变化。使用博客之后，只要某人愿意访问我的博客，TA就可以自由访问这个网站；如果某人对我的博客不感兴趣，TA就不会接收到任何推送信息。QQ空间是做不到“自由访问”的，因为好友动态会自动推送，而我并不清楚谁在此刻愿意看我的分享。当然，也许有人长期愿意浏览我的博客，这就需要有订阅功能，但我的技术水平还不足以实现，以后有机会可能会添加。</p><h2 id="一些技术上的说明"><a href="#一些技术上的说明" class="headerlink" title="一些技术上的说明"></a>一些技术上的说明</h2><p>本博客通过<a href="https://hexo.io/zh-cn/">Hexo</a>框架生成，部署在<a href="https://github.com/">Github</a>上，采用<a href="https://butterfly.js.org/">butterfly</a>主题，引入<a href="https://www.livere.com/">Livere（来必力）评论系统</a>。（欢迎诸位在博文下评论！）</p><p>本博客的网址是<a href="eviants.xyz">eviants.xyz</a>，备用网址<a href="eviants.github.io">eviants.github.io</a>。</p><p>为了搭建博客，我在网上找了很多教程，尝试过很多种方案。但是由于种种原因，之前的努力都失败了。并不是教程中提供的方案不可行，纯粹是因为我太菜了。我对计算机技术几乎完全不懂，甚至连在哪里输命令行都搞不清楚，除非手把手教，否则我根本就不会操作。在一整天的重复受挫之后，我终于在B站上找到了一个适合纯小白的教学视频，并且成功搭建了现在你看到的这个博客。我也非常乐意向你推荐这套视频：<a href="https://www.bilibili.com/video/BV1aV411p7Bc/">【卷二兔】Hexo初阶入门教程萌新必备手摸手教学</a>。</p><p>当然，我还吸取了其他人传授的经验，比如看了一位前辈的教程后，我萌发了注册一个域名的想法。本网站的域名是在阿里云上注册的，首年1元。看的教程很多很杂，在反复受挫头昏脑涨之际也记不下那么多人的名字了，很遗憾在此无法一一表示感谢。</p><p>最后，还要特别感谢提供免费教程和开源项目的诸位前辈，正是因为有各位的付出，每一个普通人才有机会运用信息技术为自己的生活增色添彩。</p><h2 id="关于“eviants”"><a href="#关于“eviants”" class="headerlink" title="关于“eviants”"></a>关于“eviants”</h2><p>想必你已经对这个奇怪的单词感到疑惑了。这其实是我生造的词，其由来是“sometimes naive”的部分缩写“st naive”的逆序输出。这句话出自一位睿智的长者之口。我创造这个单词，一方面是诙谐幽默，另一方面也是想时刻勉励自己，我还是太年轻了，思考问题的方式太简单了，甚至有点幼稚，需要不断学习前人的人生经验，用“闷声大发财”的态度努力提升自我，将自我奋斗与历史的行程相结合，争取为改造中国与世界做出一点微小的贡献。</p><p>至于这个词究竟怎么读，诸位自便吧！我个人的习惯是遵循原词naive的读法，把重音放到第二个音节上。诸位也可以读作“evil ants”（邪恶蚂蚁），或者其他什么的，一切无妨。</p><h2 id="博客的更新计划"><a href="#博客的更新计划" class="headerlink" title="博客的更新计划"></a>博客的更新计划</h2><p>没有任何计划。何时更新、更新什么都不确定。放弃一些束缚，才能自由自在地飞翔。</p><p>同时，本博客在技术上还很不完善，将不断维护和添加新的功能。</p><p>另外，欢迎大家对文章中的错误提出质疑和纠正（包括但不限于低级错误），可以在评论区留言或私信我。</p>]]></content>
     
@@ -31,26 +31,6 @@
     
     
     <category term="技术性质的文章" scheme="http://eviants.github.io/categories/%E6%8A%80%E6%9C%AF%E6%80%A7%E8%B4%A8%E7%9A%84%E6%96%87%E7%AB%A0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://eviants.github.io/2022/06/15/hello-world/"/>
-    <id>http://eviants.github.io/2022/06/15/hello-world/</id>
-    <published>2022-06-15T10:28:27.872Z</published>
-    <updated>2022-06-16T00:48:15.275Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
     
     
   </entry>
